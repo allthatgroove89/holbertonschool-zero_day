@@ -1,2 +1,8 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "School"
+||||||| b1b5466
+echo "SCHOOL" 
+=======
+echo "This School is so cool!" 
+>>>>>>> update_script
